@@ -12,7 +12,6 @@ import { useState } from 'react';
 import NumberId from './page/NumberId';
 import Board from './page/Board';
 import BoardId from './page/BoardId';
-import FadeExample from './page/FadeExample';
 
 function App() {
   const [list, setList] = useState([1,2,3,4,5]);
